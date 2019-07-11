@@ -9,6 +9,9 @@ public class RestApiTest {
 	public void RestApi()
 	{
 		System.out.println("RestApi");
+		System.out.println("gitDemo");
+		System.out.println("gitversion");
+		
 	}
 	
 	@Test
