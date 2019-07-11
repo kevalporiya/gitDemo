@@ -9,6 +9,8 @@ public class SeleniumTest {
 		public void seleniumTest()
 		{
 			System.out.println("seleniumTest");
+			
+			System.out.println("this is GITX project");
 		}
 		
 	@Test

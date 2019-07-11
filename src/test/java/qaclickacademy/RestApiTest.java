@@ -12,6 +12,11 @@ public class RestApiTest {
 		System.out.println("gitDemo");
 		System.out.println("gitversion");
 		
+		System.out.println("gitx");
+		System.out.println("gitx11");
+		System.out.println("gitx22");
+		
+		
 	}
 	
 	@Test
