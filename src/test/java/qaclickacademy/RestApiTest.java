@@ -26,5 +26,10 @@ public class RestApiTest {
 		System.out.println("RestApimethod");
 	}
 	
+	public void RestApimethod11()
+	{
+	
+		System.out.println("RestApimethod11");
+	}
 	
 }

@@ -16,6 +16,13 @@ public class AppiumTest {
 	{
 	
 		System.out.println("Appiummethod");
+		
+	}
+		public void Appiummethod22()
+		{
+		
+			System.out.println("Appiummethod22");
+		}
 	}
 	
-}
+

@@ -20,6 +20,12 @@ public class SeleniumTest {
 			System.out.println("seleniummethod");
 		}
 	
+	public void seleniummethod33()
+	{
+	
+		System.out.println("seleniummethod33");
+	}
+
 	
 	
 	
